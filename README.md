@@ -1,5 +1,5 @@
 # hello-world
-My first repository on Github
+My first repository on GitHub
 
 New here, try to make some positive impacts on world.
 
